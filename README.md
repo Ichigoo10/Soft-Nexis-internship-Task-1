@@ -1,10 +1,16 @@
 # Soft-Nexis-internship
 This repository contains a collection of internship tasks completed as part of the Data Science using Python program. Each task focuses on a different stage of the data science workflow — from cleaning raw data to performing exploratory analysis and forecasting trends.
+
 📁 Data Science Using Python Internship/
+
 │
+
 ├── Task 1 - Data Cleaning & Preprocessing
+
 │   ├── data_cleaning.py
+
 │   ├── dataset.csv
+
 │   └── cleaned_dataset.csv
 
 ---
